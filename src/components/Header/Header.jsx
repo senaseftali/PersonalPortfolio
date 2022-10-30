@@ -11,7 +11,7 @@ function Header() {
         </h1>
         <img src={profil} alt="John Smith" className="person-img" />
         <h3 className="person-name">John Smith</h3>
-        <a href="#section-3" className="section-1-btn">Projects</a>
+        <a href="#section-3" className="section-1-btn">Projects</a> 
       </section>
     </div>
   );
