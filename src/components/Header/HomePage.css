@@ -45,7 +45,7 @@
       url(./bg.jpg) center no-repeat;
     background-size: cover;
     flex-direction: column;
-  }
+  } 
   
   .section-1-heading {
     font-size: 6rem;
