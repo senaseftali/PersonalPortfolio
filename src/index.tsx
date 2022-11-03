@@ -5,16 +5,22 @@ import './index.css';
 import HomePage from './pages/HomePage/HomePage'
 import Header from './components/Header/Header' 
 import Menu from './components/Menu/Menu';
+import Footer from './components/Footer/Footer'
+import About from './components/About/About'
 import reportWebVitals from './reportWebVitals';
-
+import Contact from './components/Contact/Contact'
+import Portfolio from './components/Portfolio/Portfolio';
 const root = ReactDOM.createRoot(
   document.getElementById('root') as HTMLElement
 );
 root.render(
   <React.StrictMode>
-    {/* <HomePage /> */}
     <Header/>
     <Menu/>
+    <About/>
+    <Portfolio/>
+    <Contact/>
+    <Footer/>
   </React.StrictMode>
 );
 

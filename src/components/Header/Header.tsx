@@ -1,7 +1,7 @@
 import React from 'react';
 // import logo from './logo.svg';
-  import './HomePage.css';
- import profil from './john-smith.jpg'; 
+  import './Header.css';
+ import profil from '../../images/john-smith.jpg'; 
 function Header() {
   return (
     <div className="container">
