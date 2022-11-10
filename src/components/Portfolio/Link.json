@@ -1,0 +1,84 @@
+[
+    {
+        "id": 1,
+        "projeName": "architect website",
+        "technologName": "HTML / CSS / JS",
+        "link": "https://www.youtube.com/watch?v=3J-EFMzz94g",
+        "buttondescription":"Go to Video",
+        "images":"static/media/project-1.aaed7ce0f56f5f92334f.jpg"
+        
+    },
+  
+    {
+        "id": 2,
+        "projeName": "Budget App",
+        "technologName": "ReactJS",
+        "link": "https://www.youtube.com/watch?v=fDffQYs2WB0",
+        "buttondescription":"Go to Video",
+        "images":"static/media/project-2.61e01e59e1648abc572c.jpg"
+    },
+  
+    {
+        "id": 3,
+        "projeName": "wine house",
+        "technologName": "HTML / CSS / JS",
+        "link": "https://www.youtube.com/watch?v=jtmuopTpzGE",
+        "buttondescription":"Go to Video",
+        "images":"static/media/project-3.3a64f2a3836506b77300.jpg"
+    },
+  
+    {
+        "id": 4,
+        "projeName": "task manager",
+        "technologName": "ReactJS",
+        "link": "https://www.youtube.com/watch?v=fqup-BL3VjI",
+        "buttondescription":"Go to Video",
+        "images":"static/media/project-4.9a57c9aea0340c6346f9.jpg"
+    },
+  
+    {
+        "id": 5,
+        "projeName": "The Road",
+        "technologName": "HTML / CSS / JS",
+        "link": "https://www.youtube.com/watch?v=qmyN7lYY_xo",
+        "buttondescription":"Go to Video",
+        "images":"static/media/project-5.6e2ad4505f5bf61c46c9.jpg"
+    },
+  
+    {
+        "id": 6,
+        "projeName": "food recipe app",
+        "technologName": "ReactJS",
+        "link": "https://www.youtube.com/watch?v=d1vT4kkTCaw",
+        "buttondescription":"Go to Video",
+        "images":"/static/media/project-6.5b41dfc03e82f23a0e84.jpg"
+    },
+  
+    {
+        "id": 7,
+        "projeName": "slideshow",
+        "technologName": "HTML / CSS / JS",
+        "link": "https://www.youtube.com/watch?v=1qhSSp2q7n4",
+        "buttondescription":"Go to Video",
+        "images":"/static/media/project-7.769bc8bce28901ab79c7.jpg"
+    },
+  
+    {
+        "id": 8,
+        "projeName": "Hamburger menu",
+        "technologName": "HTML / CSS / JS",
+        "link": "https://www.youtube.com/watch?v=9Q7wy8r3i8w",
+        "buttondescription":"Go to Video",
+        "images":"static/media/project-8.29be17a58b7bd1727177.jpg"
+    },
+  
+    {
+        "id": 9,
+        "projeName": "CSS grid menu",
+        "technologName": "HTML / CSS / JS",
+        "link": "https://www.youtube.com/watch?v=HScySfeSmWc",
+        "buttondescription":"Go to Video",
+        "images":"static/media/project-9.e5dd2e658cee46b1f701.jpg"
+    }
+  
+  ]
